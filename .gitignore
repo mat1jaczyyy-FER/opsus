@@ -56,3 +56,6 @@ build/
 
 # zipped vjezbe
 *.zip
+
+# VS Code
+.vscode/
