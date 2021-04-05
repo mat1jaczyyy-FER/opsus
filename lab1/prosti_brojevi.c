@@ -1,4 +1,5 @@
 // Dominik Matijaca 0036524568
+#pragma GCC diagnostic ignored "-Wimplicit-function-declaration"
 
 #include <math.h>
 #include <signal.h>
